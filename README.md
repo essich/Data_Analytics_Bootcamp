@@ -1,2 +1,2 @@
-# Data_Analytics_Bootcamp
+# CWRU_Bootcamp_Personal_Repository
 Data Analytics Bootcamp Repository
